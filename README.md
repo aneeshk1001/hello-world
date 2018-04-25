@@ -1,2 +1,4 @@
 # hello-world
-first repo
+Trial for the first github lesson following the hello
+world guidelines
+
